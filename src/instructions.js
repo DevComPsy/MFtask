@@ -94,7 +94,7 @@ class Instructions extends React.Component{
             <p>
               At the end of each day, you will see how much juice was made <br />
               from the apples you picked. At the end of the game this juice <br />
-              will be converted to a monetary bonus.
+              will be converted to a bonus score.
             </p>
           </div>);
 
