@@ -1,0 +1,25 @@
+.link{
+  cursor: pointer;
+}
+
+.IntroConsentText{
+  font: "Century Gothic", Futura, sans-serif;
+  font-size  : 16;
+  margin-top : 4vh;
+  text-align: left;
+}
+
+.bold { font-weight: bold; }
+
+.place-middle{
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -90px;
+}
+
+.btn_help{
+  position: absolute;
+  margin-top: 770px;
+  margin-left: 840px;
+}

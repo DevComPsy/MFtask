@@ -1,0 +1,18 @@
+
+
+.appleTask{
+  position:relative;
+  background: url('http://www.brainexplorer.net/MF/square.png');
+  border-width: thin;
+  border-color: black;
+  border-style: solid;
+  width: 57px;
+  height: 57px;
+  left: 50px;
+  margin-top: 670px;
+  margin-left: 10px;
+  float: left;
+  Display: flex;
+  Align-Items: center;
+  Justify-Content: center;
+}

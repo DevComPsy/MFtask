@@ -1,0 +1,39 @@
+
+
+.shift{
+  position:absolute;
+  width: 1000px;
+  height: 1000px;
+}
+
+.IntroText{
+  font: "Century Gothic", Futura, sans-serif;
+  font-size  : 16;
+  margin-top : 3%;
+  margin-left: 3%;
+}
+
+.translate {
+  margin-top: 1%;
+}
+
+.buttonStart{
+  position: center;
+  width: 2vh;
+  height: 5vh;
+  margin: 0 auto;
+  background: green;
+  border-radius: 0.5vh;
+  font-size: 5vh;
+}
+
+.container {
+  position: relative;
+  top: 2vh;
+  max-width: 800px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 3px;
+}
+
+.bold { font-weight: bold; }

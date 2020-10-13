@@ -1,0 +1,56 @@
+
+.apple{
+  position:relative;
+  background: url('http://www.brainexplorer.net/MF/square.png');
+  border-width: thin;
+  border-color: black;
+  border-style: solid;
+  width: 57px;
+  height: 57px;
+  left: -337px;
+  margin-top: 326px;
+  margin-left: 4px;
+  float: left;
+  Display: flex;
+  Align-Items: center;
+  Justify-Content: center;
+}
+
+.slide_im{
+  position:absolute;
+  margin-top: 0px;
+  margin-left: 0px;
+  z-index: -1;
+}
+
+.training_text{
+  position:relative;
+  left: 100px;
+  margin-top: -655px;
+  margin-left: 310px;
+  font-size: 19px;
+  font-family: Arial;
+}
+
+.appleSug{
+  position:relative;
+  background: url('http://www.brainexplorer.net/MF/square.png');
+  border-width: thin;
+  border-color: black;
+  border-style: solid;
+  width: 55px;
+  height: 55px;
+  margin-top: -20px;
+  margin-left: 35px;
+  left: -100px;
+  float: left;
+  Display: flex;
+  Align-Items: center;
+  Justify-Content: center;
+}
+
+.feedback{
+  position:absolute;
+  left: -400px;
+  margin-top: -120px;
+}
